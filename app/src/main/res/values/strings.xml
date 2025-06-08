@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">RybarskyDennik</string>
+    <string name="title">Rybársky denník</string>
+    <string name="aboutText1">Rybársky denník je aplikácia, ktorá vznikla ako projekt semestrálnej práce z predmetu Vývoj aplikácií pre mobilné zariadenia.</string>
+    <string name="aboutText2">Autor: Juraj Čerňava</string>
+    <string name="about">O aplikácií</string>
+    <string name="newRecord">Nový záznam</string>
+    <string name="editRecord">Úprava záznamu</string>
+    <string name="noRecord">Zatial neexistuje</string>
+    <string name="highScore">Top Úlovky</string>>
+    <string name="recordDetail">Detail záznamu</string>
+    <string name="home">Rybársky denník</string>
+    <string name="login">Prihlásenie</string>
+    <string name="journal">Denník</string>
+    <string name="emptyList">Vaše úložisko je zatiaľ prázdne...</string>
+    <string name="add_info">Pridať záznam</string>
+    <string name="detail_info">Detail záznamu</string>
+    <string name="back_info">Naspäť</string>
+    <string name="edit_info">Uprav záznam</string>
+    <string name="delete_info">Vymaž záznam</string>
+    <string name="top_length">Najdlhšia ryba:</string>
+    <string name="top_weight">Najťahšia ryba:</string>
+    // Fish species
+    <string name = "notPicked">Vyber druh ryby</string>
+    <string name = "brownie">Salmo trutta</string>
+    <string name = "rainbow">Oncorhynchus mykiss</string>
+    <string name = "carp">Cyprinus carpio</string>
+    <string name = "chub">Leuciscus cephalus</string>
+    <string name = "grayling">Thymallus thymallus</string>
+    <string name = "catfish">Silurus glanis</string>
+    <string name = "pike">Esox lucius</string>
+    <string name = "zander">Sander lucioperca</string>
+    <string name = "perch">Perca fluviatilis</string>
+
+    // Fisheries
+    <string name = "noFishery">Vyber revír</string>
+    <string name = "hron1">Hron 7a</string>
+    <string name = "hron2">Hron 7b</string>
+    <string name = "kysuca">Kysuca 1</string>
+    <string name = "vah1">Vah 13</string>
+    <string name = "vah2">Vah 12</string>
+    <string name = "rajcanka">Rajcanka 1</string>
+    <string name = "hricov">VN Hricov</string>
+    <string name = "divinka">VN Divinka</string>
+    <string name = "slatina">Slatina 1</string>
+    <string name = "motova">VN Motova</string>
+</resources>
